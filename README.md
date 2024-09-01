@@ -8,6 +8,11 @@ This project focuses on sentiment analysis of customer reviews using Natural Lan
 
 ![Project Overview](https://s6.ezgif.com/tmp/ezgif-6-d0f6254513.gif)
 
+
+
+Dataset link: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download
+
+
 ## Techniques and Approaches
 
 The notebook includes the following approaches and techniques:
