@@ -6,7 +6,7 @@
 
 This project focuses on sentiment analysis of customer reviews using Natural Language Processing (NLP) techniques, specifically leveraging the Natural Language Toolkit (NLTK) in Python. Sentiment analysis, also known as opinion mining, is a key component in understanding public opinion, consumer preferences, and market trends. This project demonstrates the process of building sentiment analysis models from data preprocessing to model evaluation.
 
-![Project Overview](https://s6.ezgif.com/tmp/ezgif-6-d0f6254513.gif)
+[![SoGXl.gif](https://s11.gifyu.com/images/SoGXl.gif)](https://gifyu.com/image/SoGXl)
 
 
 
